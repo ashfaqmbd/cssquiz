@@ -2,7 +2,7 @@
 
 This project was developed as practice session at freecodecamp.
 
-To view live demo [Click Here]()
+To view live demo [Click Here](https://ashfaqmbd.github.io/cssquiz/)
 
 ## Credits to 
 [FreeCodeCamp](www.freecodecamp.org)
