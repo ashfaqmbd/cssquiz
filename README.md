@@ -1,4 +1,4 @@
-# HTM CSS Quiz
+# HTML CSS Quiz
 
 This project was developed as practice session at freecodecamp.
 
